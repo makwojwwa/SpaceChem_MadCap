@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Game mechanics/Advanced instructions.htm'],s:['0'],p:[['0',20],['familiar',19],['place',5],['used',8]]});
